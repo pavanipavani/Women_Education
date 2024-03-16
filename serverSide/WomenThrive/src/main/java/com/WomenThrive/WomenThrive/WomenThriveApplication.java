@@ -11,7 +11,7 @@ public class WomenThriveApplication implements CommandLineRunner {
 		SpringApplication.run(WomenThriveApplication.class, args);
 	}
 	@Override
-	public void run(String... args) throws Exception{
+	public void run(String... args){
 
 	}
 }

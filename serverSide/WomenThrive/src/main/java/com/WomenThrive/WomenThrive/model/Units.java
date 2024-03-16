@@ -1,8 +1,14 @@
 package com.WomenThrive.WomenThrive.model;
 
-import jakarta.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Column;
+
 
 @Entity
+
 public class Units {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
