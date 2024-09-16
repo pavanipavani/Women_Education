@@ -1,0 +1,45 @@
+.line
+{
+    margin-left: 100px;
+}
+.heartsymbolsize
+{
+    width:15px;
+    height:13px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.footertext
+{
+    font-weight: bold;
+    text-align: center;
+}
+.line
+{
+    font-size:17px;
+}
+.heartsymbolsize
+{
+    width:15px;
+    height:13px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.footertext
+{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer
+{
+    border: 2px solid black;
+    padding:10px 10px;
+    background-color:rgb(191, 205, 246);  
+}
+.footerborder
+{
+   
+    margin-left: 100px;
+    margin-right: 200px;
+}
